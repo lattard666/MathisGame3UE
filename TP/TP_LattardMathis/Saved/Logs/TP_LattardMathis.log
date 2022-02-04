@@ -1394,3 +1394,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.04-15.27.51:488][647]LogSavePackage: Moving 'E:/Thief Gang/UE5/MathisGame3UE/TP/TP_LattardMathis/Saved/BP_GameFlowManagerE73C13FB4528D494AB4B45ADAA4E9987.tmp' to 'E:/Thief Gang/UE5/MathisGame3UE/TP/TP_LattardMathis/Content/_Core/BP_GameFlowManager.uasset'
 [2022.02.04-15.27.51:501][647]AssetCheck: New page: Asset Save: BP_GameFlowManager
 [2022.02.04-15.27.51:501][647]LogContentValidation: Display: Validating Blueprint /Game/_Core/BP_GameFlowManager.BP_GameFlowManager
+[2022.02.04-15.36.38:281][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.02.04-15.36.38:286][518]LogSavePackage: Moving 'E:/Thief Gang/UE5/MathisGame3UE/TP/TP_LattardMathis/Saved/Bootstrap_Auto7F21DE49649ED97B762FC879C11E06BDC.tmp' to 'E:/Thief Gang/UE5/MathisGame3UE/TP/TP_LattardMathis/Saved/Autosaves/Game/Levels/Bootstrap_Auto7.umap'
+[2022.02.04-15.36.38:287][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Bootstrap' took 0.038
+[2022.02.04-15.36.38:287][518]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
