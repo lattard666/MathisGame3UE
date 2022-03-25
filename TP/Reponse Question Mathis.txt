@@ -1,0 +1,12 @@
+1 ) Nous ne pouvons pas faire les objectifs dans l'ordre souhaité. 
+L'ordre des objectifs n'est pas libre.
+
+
+2) Supprimer le fait que le jeu ai un current objectif pour le remplacer par le fait
+que tout les objectifs soient faisable ou rendre tout les objectifs en current objectif.
+
+Faire une variable global (Float) appelée {ObjectiveToFinish} qu'on pourra régler sur chaque 
+level et que chaque objectif ajoute 1 à la variable.
+
+Exemple {ObjectiveToFinish}= 3 
+Objectif 1 + 2 + 3 = 3 Termine le level.
